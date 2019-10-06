@@ -1,3 +1,6 @@
 [submodule "1st/hello-world"]
 	path = 1st/hello-world
 	url = https://github.com/pallavpanwar9876/testRepo
+[submodule "2nd/testRepo1"]
+	path = 2nd/testRepo1
+	url = https://github.com/pallavpanwar9876/testRepo/2nd/testRepo1
