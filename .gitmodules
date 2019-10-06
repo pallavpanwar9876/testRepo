@@ -1,0 +1,3 @@
+[submodule "1st/hello-world"]
+	path = 1st/hello-world
+	url = https://github.com/pallavpanwar9876/testRepo
