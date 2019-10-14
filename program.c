@@ -6,7 +6,7 @@ int main()
 	printf("Enter the limit upto which you want to see fibonacci series");
 	scanf("%d"&s)
 	int sum;
-	for(int i=2;i<=n;++i)
+	for(int i=2;i<=s;++i)
 	{	printf("%d",a1+a2);
 		a1=a2;
 		a1=a1+a2;
