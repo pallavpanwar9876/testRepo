@@ -11,5 +11,14 @@ int main()
 		a1=a2;
 		a1=a1+a2;
 	}
+
+	//I am going to change your program and it's on your beloved memory 
+	int n;
+	scanf("%d",&n);
+	for(int i=0;i<n;i++)
+	{
+	printf("%d",n);
+	}
+
 return 0;
 }
